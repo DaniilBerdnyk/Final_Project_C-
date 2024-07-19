@@ -1,0 +1,1 @@
+Cheap_PC,7,test,test,1000,1,1.000000,Arthur
